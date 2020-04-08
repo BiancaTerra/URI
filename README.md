@@ -6,5 +6,4 @@ Divididos em:
 - SQL
 
 Bianca Terra :copyright:
-
 :e-mail: biancasterra@unifeg.edu.br
